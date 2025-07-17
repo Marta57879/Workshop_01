@@ -1,2 +1,2 @@
 # Workshop_01
-Java + Selenium _jUnit
+Java + Selenium + JUnit
